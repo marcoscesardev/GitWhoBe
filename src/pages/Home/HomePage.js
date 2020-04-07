@@ -87,6 +87,7 @@ export default function HomePage() {
                   name="username"
                   placeholder="Usuário"
                   onChange={handleChange}
+                  autoComplete="off"
                   value={values.username}/>
 
                 <button
