@@ -4,6 +4,9 @@ import React from 'react';
 // third-party
 import PropTypes from 'prop-types';
 
+// Application
+import RepositoriesList from './RepositoriesList'
+
 export default function UserInfo(props) {
   const { user, setUser } = props;
 
@@ -28,6 +31,9 @@ export default function UserInfo(props) {
           <h5>Repositórios: <span>{user.public_repos}</span></h5>
         </div>
       </div>
+
+      { user.public_repos && <RepositoriesList userLogin={user.login} /> }
+
       <div className="user-info__action">
         <a className="btn" onClick={() => { setUser(null) }}>
           Voltar
