@@ -18,10 +18,12 @@ export default function UserInfo(props) {
     <div className="puff-in-center">
       <div className="user-info">
         <div className="user-info__main">
-          <img src={user.avatar_url} />
-          <h3>{user.name}</h3>
-          <h4>@{user.login}</h4>
-          <h4>{user.bio}</h4>
+          <a href={user.html_url}>
+            <img src={user.avatar_url} />
+            <h3>{user.name}</h3>
+            <h4>@{user.login}</h4>
+            <h4>{user.bio}</h4>
+          </a>
         </div>
         <div className="user-info__basic">
           <h5>Seguidores: <span>{user.followers}</span></h5>
