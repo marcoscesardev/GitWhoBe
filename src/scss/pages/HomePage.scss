@@ -1,0 +1,56 @@
+
+.home-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+
+  &__title {
+    text-align: center;
+    background: #23292e;
+    margin: 21px 0px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  &__form {
+    background: #fff;
+    padding: 15px 12px;
+  }
+
+  &__input {
+    font-size: 22px;
+    padding: 10px 10px 10px 5px;
+    border: none;
+    border-bottom: 1px solid #757575;
+    max-width: 250px;
+    width: 100%;
+  }
+  &__icon {
+    font-size: 40px;
+    color: #444444;
+  }
+
+  &__form-group {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__input--error {
+    border-bottom: 3px solid red;
+    color: red;
+  }
+
+  &__message--error {
+    color: red;
+    text-align: center;
+  }
+
+  @media (max-width: $breakpoint-tablet) {
+    & {
+      display: block;
+    }
+  }
+}
