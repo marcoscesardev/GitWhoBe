@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GitWhoBe/static/css/main.85fcdb4a.chunk.css",
-    "main.js": "/GitWhoBe/static/js/main.b89db273.chunk.js",
-    "main.js.map": "/GitWhoBe/static/js/main.b89db273.chunk.js.map",
+    "main.css": "/GitWhoBe/static/css/main.96a54e7a.chunk.css",
+    "main.js": "/GitWhoBe/static/js/main.17822950.chunk.js",
+    "main.js.map": "/GitWhoBe/static/js/main.17822950.chunk.js.map",
     "runtime-main.js": "/GitWhoBe/static/js/runtime-main.cdeb2357.js",
     "runtime-main.js.map": "/GitWhoBe/static/js/runtime-main.cdeb2357.js.map",
     "static/js/2.a4f56199.chunk.js": "/GitWhoBe/static/js/2.a4f56199.chunk.js",
     "static/js/2.a4f56199.chunk.js.map": "/GitWhoBe/static/js/2.a4f56199.chunk.js.map",
     "index.html": "/GitWhoBe/index.html",
-    "precache-manifest.ed238e9d3497b949579822877f4e9f6e.js": "/GitWhoBe/precache-manifest.ed238e9d3497b949579822877f4e9f6e.js",
+    "precache-manifest.1257b58fb4b3c4fe9b55ff860fdd41c6.js": "/GitWhoBe/precache-manifest.1257b58fb4b3c4fe9b55ff860fdd41c6.js",
     "service-worker.js": "/GitWhoBe/service-worker.js",
-    "static/css/main.85fcdb4a.chunk.css.map": "/GitWhoBe/static/css/main.85fcdb4a.chunk.css.map",
+    "static/css/main.96a54e7a.chunk.css.map": "/GitWhoBe/static/css/main.96a54e7a.chunk.css.map",
     "static/js/2.a4f56199.chunk.js.LICENSE.txt": "/GitWhoBe/static/js/2.a4f56199.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cdeb2357.js",
     "static/js/2.a4f56199.chunk.js",
-    "static/css/main.85fcdb4a.chunk.css",
-    "static/js/main.b89db273.chunk.js"
+    "static/css/main.96a54e7a.chunk.css",
+    "static/js/main.17822950.chunk.js"
   ]
 }
