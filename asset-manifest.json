@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/GitWhoBe/static/css/main.fe275d78.chunk.css",
-    "main.js": "/GitWhoBe/static/js/main.4bda1e36.chunk.js",
-    "main.js.map": "/GitWhoBe/static/js/main.4bda1e36.chunk.js.map",
-    "runtime-main.js": "/GitWhoBe/static/js/runtime-main.cdeb2357.js",
-    "runtime-main.js.map": "/GitWhoBe/static/js/runtime-main.cdeb2357.js.map",
-    "static/js/2.a4f56199.chunk.js": "/GitWhoBe/static/js/2.a4f56199.chunk.js",
-    "static/js/2.a4f56199.chunk.js.map": "/GitWhoBe/static/js/2.a4f56199.chunk.js.map",
+    "main.js": "/GitWhoBe/static/js/main.d606c382.chunk.js",
+    "main.js.map": "/GitWhoBe/static/js/main.d606c382.chunk.js.map",
+    "runtime-main.js": "/GitWhoBe/static/js/runtime-main.dbb5058c.js",
+    "runtime-main.js.map": "/GitWhoBe/static/js/runtime-main.dbb5058c.js.map",
+    "static/js/2.760674ac.chunk.js": "/GitWhoBe/static/js/2.760674ac.chunk.js",
+    "static/js/2.760674ac.chunk.js.map": "/GitWhoBe/static/js/2.760674ac.chunk.js.map",
     "index.html": "/GitWhoBe/index.html",
-    "precache-manifest.3caf8ef762f1b60861e30d8bfdc017cb.js": "/GitWhoBe/precache-manifest.3caf8ef762f1b60861e30d8bfdc017cb.js",
+    "precache-manifest.8eaa7d9fae85454bfa6161310433cb14.js": "/GitWhoBe/precache-manifest.8eaa7d9fae85454bfa6161310433cb14.js",
     "service-worker.js": "/GitWhoBe/service-worker.js",
     "static/css/main.fe275d78.chunk.css.map": "/GitWhoBe/static/css/main.fe275d78.chunk.css.map",
-    "static/js/2.a4f56199.chunk.js.LICENSE.txt": "/GitWhoBe/static/js/2.a4f56199.chunk.js.LICENSE.txt"
+    "static/js/2.760674ac.chunk.js.LICENSE.txt": "/GitWhoBe/static/js/2.760674ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdeb2357.js",
-    "static/js/2.a4f56199.chunk.js",
+    "static/js/runtime-main.dbb5058c.js",
+    "static/js/2.760674ac.chunk.js",
     "static/css/main.fe275d78.chunk.css",
-    "static/js/main.4bda1e36.chunk.js"
+    "static/js/main.d606c382.chunk.js"
   ]
 }
