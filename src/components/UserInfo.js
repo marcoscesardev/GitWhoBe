@@ -32,7 +32,7 @@ export default function UserInfo(props) {
         </div>
       </div>
 
-      { user.public_repos && <RepositoriesList userLogin={user.login} /> }
+      { user.public_repos > 0 && <RepositoriesList userLogin={user.login} /> }
 
       <div className="user-info__action">
         <a className="btn" onClick={() => { setUser(null) }}>
