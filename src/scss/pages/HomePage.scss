@@ -18,6 +18,7 @@
   &__form {
     background: #fff;
     padding: 15px 12px;
+    max-width: 450px;
   }
 
   &__input {
@@ -46,6 +47,7 @@
   &__message--error {
     color: red;
     text-align: center;
+    margin: 10px;
   }
 
   @media (max-width: $breakpoint-tablet) {

@@ -53,7 +53,8 @@ export default function HomePage() {
               })
               .catch(error => {
                 setSubmitting(false)
-                if (error.response === 404) {
+
+                if (error.response && error.response.status === 404) {
                   setFieldError(
                     'username',
                     'Este usuário não existe!'
