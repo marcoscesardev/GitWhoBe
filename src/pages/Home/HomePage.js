@@ -4,10 +4,21 @@ import React, { useState } from 'react';
 // third-party
 import axios from 'axios';
 import { Formik } from 'formik';
+import UserInfo from '../../components/UserInfo';
 import classNames from 'classnames';
 
 export default function HomePage() {
   const [user, setUser] = useState(null);
+
+  if (user) {
+    return (
+      <div className="home-page">
+        <div className="home-page__form puff-in-center">
+          <UserInfo user={user} setUser={setUser} />
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="home-page puff-in-center">
