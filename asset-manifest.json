@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GitWhoBe/static/css/main.75bc2cbe.chunk.css",
-    "main.js": "/GitWhoBe/static/js/main.efc5b972.chunk.js",
-    "main.js.map": "/GitWhoBe/static/js/main.efc5b972.chunk.js.map",
+    "main.js": "/GitWhoBe/static/js/main.c8d47fb9.chunk.js",
+    "main.js.map": "/GitWhoBe/static/js/main.c8d47fb9.chunk.js.map",
     "runtime-main.js": "/GitWhoBe/static/js/runtime-main.cdeb2357.js",
     "runtime-main.js.map": "/GitWhoBe/static/js/runtime-main.cdeb2357.js.map",
     "static/js/2.a4f56199.chunk.js": "/GitWhoBe/static/js/2.a4f56199.chunk.js",
     "static/js/2.a4f56199.chunk.js.map": "/GitWhoBe/static/js/2.a4f56199.chunk.js.map",
     "index.html": "/GitWhoBe/index.html",
-    "precache-manifest.7ef4cc6cde30093ac79be2d91803f523.js": "/GitWhoBe/precache-manifest.7ef4cc6cde30093ac79be2d91803f523.js",
+    "precache-manifest.edd23b6088cd971ced74c8178d403667.js": "/GitWhoBe/precache-manifest.edd23b6088cd971ced74c8178d403667.js",
     "service-worker.js": "/GitWhoBe/service-worker.js",
     "static/css/main.75bc2cbe.chunk.css.map": "/GitWhoBe/static/css/main.75bc2cbe.chunk.css.map",
     "static/js/2.a4f56199.chunk.js.LICENSE.txt": "/GitWhoBe/static/js/2.a4f56199.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cdeb2357.js",
     "static/js/2.a4f56199.chunk.js",
     "static/css/main.75bc2cbe.chunk.css",
-    "static/js/main.efc5b972.chunk.js"
+    "static/js/main.c8d47fb9.chunk.js"
   ]
 }
